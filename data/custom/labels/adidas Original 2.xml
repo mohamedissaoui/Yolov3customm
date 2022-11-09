@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>adidas Original 2.jpg</filename>
+	<path>C:\Users\Pc\Desktop\Yolov3Custom-master\labelImg\images\adidas Original 2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>235</width>
+		<height>164</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adidas Originale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>3</ymin>
+			<xmax>202</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

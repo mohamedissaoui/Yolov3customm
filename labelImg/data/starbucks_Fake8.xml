@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>starbucks_Fake8.jpg</filename>
+	<path>C:\Users\Pc\Desktop\Yolov3Custom-master\labelImg\images\starbucks_Fake8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>474</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>starbucks Fake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>154</ymin>
+			<xmax>331</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>

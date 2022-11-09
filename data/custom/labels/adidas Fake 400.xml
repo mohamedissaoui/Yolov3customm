@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>adidas Fake 400.jpg</filename>
+	<path>C:\Users\Pc\Desktop\Yolov3Custom-master\labelImg\images\adidas Fake 400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>474</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adidas Fake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>172</ymin>
+			<xmax>206</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>adidas Fake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>125</ymin>
+			<xmax>380</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

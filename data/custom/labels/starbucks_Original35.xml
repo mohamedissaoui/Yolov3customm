@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>starbucks_Original35.jpg</filename>
+	<path>C:\Users\Pc\Desktop\Yolov3Custom-master\labelImg\images\starbucks_Original35.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>starbucks Originale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>113</ymin>
+			<xmax>204</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>
